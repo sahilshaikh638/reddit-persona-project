@@ -46,6 +46,7 @@ Install using:
 ```bash
 pip install praw transformers torch
 
+Sample Output
 1. Personality Traits: Curious, sarcastic, analytical
 2. Interests: Comic books, psychology, AI
 3. Communication Style: Short, witty replies
