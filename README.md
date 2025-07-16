@@ -52,9 +52,3 @@ Sample Output
 3. Communication Style: Short, witty replies
 4. Values: Mental health awareness
 5. Patterns: Active in niche subreddits, prefers humorous tone
-
-
----
-
-Let me know when it’s up, and I can verify your final repo — or generate a preview badge for your Colab notebook! ✅
-
